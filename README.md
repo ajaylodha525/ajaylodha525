@@ -7,7 +7,7 @@ I'm a B.Tech Computer Science student learning data science — working through 
 - **Personal Finance Tracker** — a Flask + Chart.js app to track income and expenses, also shipped as a PWA and an Android app.
   [Live demo](https://personal-finance-tracker-self-kappa.vercel.app) · [Code](https://github.com/ajaylodha525/personal-finance-tracker)
 
-  -**Journaling App with Sentiment Analysis** — a Flask app that detects each entry's mood (positive/neutral/negative) using NLP-based sentiment analysis with TextBlob.
+- **Journaling App with Sentiment Analysis** — a Flask app that detects each entry's mood (positive/neutral/negative) using NLP-based sentiment analysis with TextBlob.
 
 ## Currently learning
 
