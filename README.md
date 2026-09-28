@@ -11,6 +11,8 @@ I'm a B.Tech Computer Science student learning data science. I'm working through
 
 Pandas, data visualization, and core machine learning concepts, mostly through Kaggle's micro-courses.
 
-## Reach me
+## Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ajay-lodha-86273127b/
 
 - Email: ajaylodha626@gmail.com
