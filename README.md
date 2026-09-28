@@ -1,18 +1,15 @@
 # Hi, I'm Ajay
 
-I'm a B.Tech Computer Science student learning data science — working through Python, Pandas, data visualization, and the fundamentals of machine learning, deep learning, and computer vision, with the goal of moving into data science and analytics roles.
+I'm a B.Tech Computer Science student learning data science. I'm working through Python, Pandas and data visualization, and picking up the fundamentals of machine learning, deep learning and computer vision, with the goal of moving into data science and analytics roles.
 
 ## What I'm working on
 
-- **Personal Finance Tracker** — a Flask + Chart.js app to track income and expenses, also shipped as a PWA and an Android app.
-  [Live demo](https://personal-finance-tracker-self-kappa.vercel.app) · [Code](https://github.com/ajaylodha525/personal-finance-tracker)
-
-- **Journaling App with Sentiment Analysis** — a Flask app that detects each entry's mood (positive/neutral/negative) using NLP-based sentiment analysis with TextBlob.
--   [Code](https://github.com/ajaylodha525/journaling-app)
+- **Personal Finance Tracker** — a Flask and Chart.js app to track income and expenses. It started as a Python CLI tool and is now also an installable PWA and an Android app. [Live demo](https://personal-finance-tracker-self-kappa.vercel.app) · [Code](https://github.com/ajaylodha525/personal-finance-tracker)
+- **Journaling App** — a Flask app that tags each journal entry as positive, neutral or negative using sentiment analysis with TextBlob. [Code](https://github.com/ajaylodha525/journaling-app)
 
 ## Currently learning
 
-Pandas, data visualization, and core ML/DL/computer vision concepts — mostly through Kaggle's micro-courses.
+Pandas, data visualization, and core machine learning concepts, mostly through Kaggle's micro-courses.
 
 ## Reach me
 
