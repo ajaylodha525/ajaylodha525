@@ -13,6 +13,6 @@ Pandas, data visualization, and core machine learning concepts, mostly through K
 
 ## Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ajay-lodha-86273127b/
+- LinkedIn: https://www.linkedin.com/in/ajay-lodha-86273127b/
 
 - Email: ajaylodha626@gmail.com
