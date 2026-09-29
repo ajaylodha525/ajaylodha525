@@ -2,7 +2,7 @@
 
 I'm a B.Tech Computer Science student learning data science. I'm working through Python, Pandas and data visualization, and picking up the fundamentals of machine learning, deep learning and computer vision, with the goal of moving into data science and analytics roles.
 
-## What I'm working on
+## Featured Projects
 
 - **Personal Finance Tracker** — a Flask and Chart.js app to track income and expenses. It started as a Python CLI tool and is now also an installable PWA and an Android app. [Live demo](https://personal-finance-tracker-self-kappa.vercel.app) · [Code](https://github.com/ajaylodha525/personal-finance-tracker)
 - **Journaling App** — a Flask app that tags each journal entry as positive, neutral or negative using sentiment analysis with TextBlob. [Code](https://github.com/ajaylodha525/journaling-app)
